@@ -1,4 +1,4 @@
-# CrowdCoin
+# TweekCoin
 
 ## The Problem
 To Increase Transparency and Prevent Fraudulent Activities that arise around the world of StartUps and Platforms that have till now been developed around it such as **Kickstarter**. 
@@ -9,27 +9,8 @@ A mockup of [KickStarter](https://www.kickstarter.com/) built using smart contra
 
 ## What We Propose
 Making transaction histories more transparent and secure through the use of blockchain technology. Because Blockchain is a type of distributed ledger, all network participants share the same documentation as opposed to individual copies.
-Contributors can decide Where to invest and can Acknowledge the requests for money made by the Project Creators through their votes.The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for Necessities rather than Luxuries.
+Contributors can decide Where to invest and can Acknowledge the requests for money made by the Project Creators through their votes.The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for Necessities rather than Luxurie
 
-## Demo Screenshots
-***Home Page***
-![demo2](https://github.com/chaharnishant11/CrowdCoin/blob/master/Screenshots/homePage.png)
-
-
-***Campaign Details***
-![demo1](https://github.com/chaharnishant11/CrowdCoin/blob/master/Screenshots/CampaignDetails.png)
-
-
-***Create Campaign***
-![demo3](https://github.com/chaharnishant11/CrowdCoin/blob/master/Screenshots/createCampaign.png)
-
-
-***Create Request***
-![demo4](https://github.com/chaharnishant11/CrowdCoin/blob/master/Screenshots/createRequest.png)
-
-
-***Requests***
-![demo5](https://github.com/chaharnishant11/CrowdCoin/blob/master/Screenshots/Requests.png)
 ## Installation
 
 ### Install Git
@@ -42,19 +23,19 @@ Contributors can decide Where to invest and can Acknowledge the requests for mon
 * Open Command Prompt in the Directory You Want to Install.
 * Clone the Repository
 ```bash
-git clone https://github.com/chaharnishant11/CrowdCoin.git
+git clone https://github.com/cryptostylegq/TweekCoin.git
 ```
 * Change working Directory to the Repository
 ```bash
-cd CrowdCoin
+cd TweekCoin
 ```
 * Install Dependencies
 ```bash
 npm install
 ```
-* Change Working Directory to CommunityCrowdChain and Install Dependencies
+* Change Working Directory to Community^weekCoin and Install Dependencies
 ```bash
-cd CommunityCrowdChain
+cd CommunityTweekCoin
 npm install
 ```
 * Change Back to Root Directory
